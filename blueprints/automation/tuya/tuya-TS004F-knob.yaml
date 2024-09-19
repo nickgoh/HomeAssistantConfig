@@ -20,7 +20,6 @@ blueprint:
       selector:
         device:
           integration: zha
-          manufacturer: _TZ3000_qja6nq5z
           model: TS004F
           multiple: false
     light:
